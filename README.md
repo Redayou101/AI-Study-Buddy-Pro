@@ -2,7 +2,7 @@
 
 An advanced AI-powered educational tool designed to help students analyze, summarize, and extract key insights from their learning materials efficiently. This project aims to revolutionize how students interact with their study content through automation and intelligence.
 
----
+--
 
 ## 🚀 Key Features
 
